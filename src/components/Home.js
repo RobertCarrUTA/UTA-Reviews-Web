@@ -15,10 +15,10 @@ const Home = () => {
         </div>
       </section>
       <section id="intro">
+        <div id="introTextHeader">Student-made</div>
         <div id="introText">
-          My name is Robert Carr, I am an undergraduate Computer Science student
-          at the University of Texas at Arlington. As a student, I was annoyed
-          by the lack of reviews and the lack of detail in the online reviews.
+          From fellow UTA students, UTA Reviews provides detailed reviews and
+          discussions about current UTA staff.
         </div>
       </section>
     </body>
