@@ -1,0 +1,28 @@
+#heading {
+  font-family: Georgia, serif;
+  font-size: 40px;
+  letter-spacing: 2.2px;
+  word-spacing: 0.4px;
+  color: #000000;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: capitalize;
+  justify-content: center;
+  text-align: center;
+}
+
+#subheading {
+  font-family: Georgia, serif;
+  font-size: 10px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-align: center;
+}
